@@ -30,7 +30,7 @@ Welcome to the **Daily Questions** section of DailyByte! This is your central hu
 
 | Day | Date | Problem Name | Difficulty | Topics | Status |
 |-----|------|--------------|------------|--------|--------|
-| 1 | Nov 2 | [SpOoKy~CaSe](./11-02-2025.md) | 🟢 Easy | String Manipulation | 🔓 Open |
+| 1 | Nov 2 | [SpOoKy~CaSe](./11-03-2025.md) | 🟢 Easy | String Manipulation | 🔓 Open |
 
 ### Coming Soon
 - More exciting problems are on the way!

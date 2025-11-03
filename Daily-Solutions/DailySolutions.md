@@ -29,7 +29,7 @@ Welcome to the **Daily Solutions Archive**! This section contains all submitted 
 
 | Date | Problem | Difficulty | Submissions | View Solutions |
 |------|---------|------------|-------------|----------------|
-| Nov 2 | SpOoKy~CaSe | 🟢 Easy | Open | [📁 View Folder](./11-02-2025/) |
+| Nov 2 | SpOoKy~CaSe | 🟢 Easy | Open | [📁 View Folder](./11-03-2025/) |
 
 ### Coming Soon
 - More solutions will be added as problems are solved!
