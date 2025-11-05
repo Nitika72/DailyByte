@@ -29,7 +29,8 @@ Welcome to the **Daily Solutions Archive**! This section contains all submitted 
 
 | Date | Problem | Difficulty | Submissions | View Solutions |
 |------|---------|------------|-------------|----------------|
-| Nov 5 | Word Counter | 🟢 Easy | Open | [📁 View Folder](./11-05-2025/) |
+| Nov 2 | SpOoKy~CaSe | 🟢 Easy | Open | [📁 View Folder](../11-04-2025/) |
+| Nov 5 | Word Counter | 🟢 Easy | Open | [📁 View Folder](../11-05-2025/) |
 
 ### Coming Soon
 - More solutions will be added as problems are solved!
@@ -41,7 +42,7 @@ Welcome to the **Daily Solutions Archive**! This section contains all submitted 
 ### Step 1: Navigate to Date Folder
 Each day has its own folder named by date: `MM-DD-YYYY/`
 
-Example: `11-05-2025/`
+Example: `11-04-2025/` or `11-05-2025/`
 
 ### Step 2: View the README
 Each solution folder contains a `README.md` with:
